@@ -1,0 +1,1 @@
+Making a practice webpage that is static. Trying to learn more about web development along with web design. I've been doing the daily UI challenges for the 100 days of design challenge. The current design I'm making is a landing page for a Nachos fan club. 
